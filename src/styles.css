@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.shop_cart {
+  margin: 50px;
+}
+
+.title {
+  background-color: lightseagreen;
+  display: flex;
+  height: 100px;
+  align-items: center;
+}
+
+.total {
+  position: absolute;
+  right: 100px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.shop_quantity {
+  border: solid lightgray 2px;
+  /* background-color: red; */
+  margin-left: 100px;
+  width: 65px;
+  height: 50px;
+  text-align: center;
+}
